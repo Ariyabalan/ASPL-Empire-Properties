@@ -16,11 +16,8 @@ import {
 import { getFeaturedProjects } from "../data/projects/projectsIndex";
 import { FEATURED_LOCATIONS, LOCATIONS } from "../data/constants/locations";
 import {
-    COMPANY_STATS,
-    WHY_ASPL,
-    BUYING_JOURNEY,
-    HOME_CATEGORIES,
-} from "../data/constants/homeData.js";
+    HOME_CATEGORIES,COMPANY_STATS,WHY_ASPL,BUYING_JOURNEY
+} from "../data/constants/homedata";
 import { testimonials } from "../data/contents/testimonials";
 import { SITE_IMAGES } from "../data/constants/siteImages";
 import {

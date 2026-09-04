@@ -2,7 +2,7 @@ import React from "react";
 import { motion } from "framer-motion";
 import { Link } from "react-router-dom";
 import { SITE_IMAGES } from "../data/constants/siteImages";
-import { WHY_ASPL } from "../data/constants/homeData.js";
+import { WHY_ASPL } from "../data/constants/homedata";
 import {
     CheckCircleOutlined,
     SafetyCertificateOutlined,
